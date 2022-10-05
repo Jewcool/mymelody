@@ -1,2 +1,2 @@
-# mymelody
-Учебный проект Glo Academy
+# mymelody - Учебный проект Glo Academy
+## Проект выполнил Артур Тернер
