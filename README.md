@@ -4,6 +4,6 @@
 ### Технологии 
 - html
 - css
-- javascript
+- javascript, jquery library
 
 https://jewcool.github.io/mymelody/
